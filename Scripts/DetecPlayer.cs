@@ -6,7 +6,7 @@ using UnityEngine.AI;
 using Random = UnityEngine.Random;
 using System.Collections;
 using Invector.vCharacterController;
-public class DetecPlayer : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     public bool isMeat;
     public EnemySO so;
